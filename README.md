@@ -30,13 +30,20 @@ Installation Guidelines
 
 First Clone the Repository.
 and then For backend
+
+
 cd dashboard-backend 
+
 npm i
+
 npm start
 
 and then For fronend
-cd dashboard-frontend 
+
+cd dashboard-frontend
+
 npm i
+
 npm start
 
 
